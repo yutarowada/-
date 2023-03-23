@@ -7,6 +7,6 @@ Youtubeで公開されている「電話応対コンクール岐阜県大会　�
 - 出場者は30名
 - 競技順　https://www.pi.jtua.or.jp/gifu/wp-content/uploads/sites/2/2022/09/a16797ca97f8463615d5ded476eea6cd-1.pdf
 - 結果　https://www.pi.jtua.or.jp/gifu/wp-content/uploads/sites/2/2022/10/4099e14fba0f85b24934f802d7cae24f.pdf
-- 結果と紐付けすることで優勝者とそれ以外の参加者との比較を行うことができる
+- 結果と紐付けすることで優勝者とそれ以外の参加者との比較を行うことができる（スクリプトの長さ、単語使用数など）
 - https://www.jtua.or.jp/wp/wp-content/uploads/2022/04/2022_shinsakijun.pdf
 - https://www.jtua.or.jp/wp/wp-content/uploads/2022/04/2022_concours_question.pdf
